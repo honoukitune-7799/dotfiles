@@ -5,6 +5,7 @@ brew install caskroom/cask/iterm2
 
 # Editor
 brew install neovim
+brew install caskroom/cask/visual-studio-code
 
 # Pytnon
 brew install python3
