@@ -12,3 +12,6 @@ brew install python3
 
 # Web Browser
 brew install caskroom/cask/google-chrome
+
+# Encoder
+brew install ffmpeg
