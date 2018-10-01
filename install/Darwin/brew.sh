@@ -10,6 +10,9 @@ brew install caskroom/cask/visual-studio-code
 # Pytnon
 brew install python3
 
+# Keyboard
+brew install caskroom/cask/karabiner-elements
+
 # Web Browser
 brew install caskroom/cask/google-chrome
 
