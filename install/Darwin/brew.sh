@@ -9,6 +9,7 @@ brew install caskroom/cask/visual-studio-code
 
 # Vcs
 brew install git
+brew install caskroom/cask/sourcetree
 
 # Pytnon
 brew install python3
