@@ -16,5 +16,8 @@ brew install caskroom/cask/karabiner-elements
 # Web Browser
 brew install caskroom/cask/google-chrome
 
+# Ebook
+brew install caskroom/cask/kindle
+
 # Encoder
 brew install ffmpeg
