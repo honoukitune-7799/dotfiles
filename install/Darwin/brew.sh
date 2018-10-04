@@ -3,6 +3,9 @@
 # Terminal
 brew install caskroom/cask/iterm2
 
+# Shell
+brew install zsh
+
 # Editor
 brew install neovim
 brew install caskroom/cask/visual-studio-code
