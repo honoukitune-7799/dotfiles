@@ -1,3 +1,9 @@
 # plugin manager
 [[plugins]]
 repo = 'shougo/dein.vim'
+
+# Completion
+[[plugins]]
+repo = 'Shougo/deoplete.nvim'
+if   = 'has("nvim")'
+on_i = 1
