@@ -8,6 +8,7 @@ brew install zsh
 
 # Editor
 brew install neovim
+brew install vim --with-python3 --with-lua
 brew install caskroom/cask/visual-studio-code
 
 # Vcs
